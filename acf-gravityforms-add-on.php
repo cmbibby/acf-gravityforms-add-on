@@ -7,6 +7,7 @@ Version: 1.2.6
 Author: Danny van Holten
 Author URI: http://www.dannyvanholten.com/
 Copyright: Danny van Holten
+GitHub Plugin URI: cmbibby/acf-gravityforms-add-on
 */
 
 if (!defined('ABSPATH')) {
